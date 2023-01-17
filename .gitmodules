@@ -1,0 +1,8 @@
+[submodule "hogaza"]
+	path = hogaza
+	url = git@git.vauxoo.com:Vauxoo/hogaza.git
+	branch = 15.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:Vauxoo/sh-tools.git
+	branch = 15.0
